@@ -14,3 +14,15 @@ public class Solution {
         return false; // no duplicates
     }
 }
+
+Accepted
+Runtime: 0 ms
+Case 1
+Case 2
+Input
+s =
+"textbook"
+Output
+false
+Expected
+false
