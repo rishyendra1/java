@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rishyendra1/java/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0705-design-hashset](https://github.com/rishyendra1/java/tree/master/0705-design-hashset) |
 ## Sliding Window
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/rishyendra1/java/tree/master/0705-design-hashset) |
 | [1603-design-parking-system](https://github.com/rishyendra1/java/tree/master/1603-design-parking-system) |
 ## Simulation
 |  |
@@ -42,4 +44,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/rishyendra1/java/tree/master/1603-design-parking-system) |
+## Array
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/rishyendra1/java/tree/master/0705-design-hashset) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/rishyendra1/java/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/rishyendra1/java/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
