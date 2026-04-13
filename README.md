@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/rishyendra1/java/tree/master/0232-implement-queue-using-stacks) |
 | [0705-design-hashset](https://github.com/rishyendra1/java/tree/master/0705-design-hashset) |
 | [0707-design-linked-list](https://github.com/rishyendra1/java/tree/master/0707-design-linked-list) |
 | [1396-design-underground-system](https://github.com/rishyendra1/java/tree/master/1396-design-underground-system) |
@@ -68,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rishyendra1/java/tree/master/0744-find-smallest-letter-greater-than-target) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/rishyendra1/java/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/rishyendra1/java/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
