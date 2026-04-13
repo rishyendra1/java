@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rishyendra1/java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishyendra1/java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0690-employee-importance](https://github.com/rishyendra1/java/tree/master/0690-employee-importance) |
 | [0705-design-hashset](https://github.com/rishyendra1/java/tree/master/0705-design-hashset) |
 | [1396-design-underground-system](https://github.com/rishyendra1/java/tree/master/1396-design-underground-system) |
 ## Sliding Window
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rishyendra1/java/tree/master/0088-merge-sorted-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishyendra1/java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0690-employee-importance](https://github.com/rishyendra1/java/tree/master/0690-employee-importance) |
 | [0705-design-hashset](https://github.com/rishyendra1/java/tree/master/0705-design-hashset) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rishyendra1/java/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Linked List
@@ -83,4 +85,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rishyendra1/java/tree/master/0088-merge-sorted-array) |
+## Tree
+|  |
+| ------- |
+| [0690-employee-importance](https://github.com/rishyendra1/java/tree/master/0690-employee-importance) |
+## Depth-First Search
+|  |
+| ------- |
+| [0690-employee-importance](https://github.com/rishyendra1/java/tree/master/0690-employee-importance) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0690-employee-importance](https://github.com/rishyendra1/java/tree/master/0690-employee-importance) |
 <!---LeetCode Topics End-->
