@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rishyendra1/java/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishyendra1/java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/rishyendra1/java/tree/master/0049-group-anagrams) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rishyendra1/java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0796-rotate-string](https://github.com/rishyendra1/java/tree/master/0796-rotate-string) |
 | [1002-find-common-characters](https://github.com/rishyendra1/java/tree/master/1002-find-common-characters) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rishyendra1/java/tree/master/0049-group-anagrams) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rishyendra1/java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishyendra1/java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0690-employee-importance](https://github.com/rishyendra1/java/tree/master/0690-employee-importance) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rishyendra1/java/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/rishyendra1/java/tree/master/0088-merge-sorted-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishyendra1/java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0690-employee-importance](https://github.com/rishyendra1/java/tree/master/0690-employee-importance) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rishyendra1/java/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/rishyendra1/java/tree/master/0088-merge-sorted-array) |
 ## Tree
 |  |
