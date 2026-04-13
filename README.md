@@ -30,4 +30,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rishyendra1/java/tree/master/0005-longest-palindromic-substring) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/rishyendra1/java/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/rishyendra1/java/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/rishyendra1/java/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
