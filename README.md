@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishyendra1/java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rishyendra1/java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0796-rotate-string](https://github.com/rishyendra1/java/tree/master/0796-rotate-string) |
+| [1002-find-common-characters](https://github.com/rishyendra1/java/tree/master/1002-find-common-characters) |
 | [1396-design-underground-system](https://github.com/rishyendra1/java/tree/master/1396-design-underground-system) |
 ## String Matching
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/rishyendra1/java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0690-employee-importance](https://github.com/rishyendra1/java/tree/master/0690-employee-importance) |
 | [0705-design-hashset](https://github.com/rishyendra1/java/tree/master/0705-design-hashset) |
+| [1002-find-common-characters](https://github.com/rishyendra1/java/tree/master/1002-find-common-characters) |
 | [1396-design-underground-system](https://github.com/rishyendra1/java/tree/master/1396-design-underground-system) |
 ## Sliding Window
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0690-employee-importance](https://github.com/rishyendra1/java/tree/master/0690-employee-importance) |
 | [0705-design-hashset](https://github.com/rishyendra1/java/tree/master/0705-design-hashset) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rishyendra1/java/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1002-find-common-characters](https://github.com/rishyendra1/java/tree/master/1002-find-common-characters) |
 ## Linked List
 |  |
 | ------- |
