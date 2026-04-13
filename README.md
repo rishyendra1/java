@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/rishyendra1/java/tree/master/0705-design-hashset) |
+| [0707-design-linked-list](https://github.com/rishyendra1/java/tree/master/0707-design-linked-list) |
 | [1396-design-underground-system](https://github.com/rishyendra1/java/tree/master/1396-design-underground-system) |
 | [1603-design-parking-system](https://github.com/rishyendra1/java/tree/master/1603-design-parking-system) |
 ## Simulation
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/rishyendra1/java/tree/master/0705-design-hashset) |
+| [0707-design-linked-list](https://github.com/rishyendra1/java/tree/master/0707-design-linked-list) |
 ## Hash Function
 |  |
 | ------- |
